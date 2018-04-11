@@ -6,5 +6,5 @@ simulation for different distribution.
 
 _Paper Published by Soumyadip Das and Arjun Dutta._
 
-The link to the paper is given below :- <\b>
+The link to the paper is given below :- <br />
 https://www.ijsr.net/archive/v6i7/ART20175447.pdf
