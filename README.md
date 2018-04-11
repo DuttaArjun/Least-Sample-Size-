@@ -5,3 +5,6 @@ distribution selected randomly. At the end we have used shiny package in R to cr
 simulation for different distribution.
 
 _Paper Published by Soumyadip Das and Arjun Dutta._
+
+The link to the paper is given below :-
+https://www.ijsr.net/archive/v6i7/ART20175447.pdf
